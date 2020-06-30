@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">Newz</string>
+    <string name="label_home">Home</string>
+    <string name="label_search">Search</string>
+
+    <!-- Menu labels -->
+    <string name="theme">Toggle Theme</string>
+    <string name="search">Search</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="share">Share</string>
+    
+    <!-- Section labels -->
+    <string name="front_page">Home</string>
+    <string name="world">World</string>
+    <string name="politics">Politics</string>
+    <string name="business">Business</string>
+    <string name="technology">Technology</string>
+    <string name="science">Science</string>
+    <string name="health">Health</string>
+    <string name="sports">Sports</string>
+    <string name="arts">Arts</string>
+    <string name="books">Books</string>
+    <string name="fashion">Fashion</string>
+    <string name="food">Food</string>
+    <string name="travel">Travel</string>
+    <string name="movies">Movies</string>
+    <string name="automobiles">Automobiles</string>
+    <string name="real_estate">Real Estate</string>
+    <string name="sunday_review">Sunday Review</string>
+
+    <!-- Error messages -->
+    <string name="message_error_offline">You’re offline</string>
+    <string name="instruction_error_offline">Please check your internet connection</string>
+    <string name="message_error_something_went_wrong">Oops</string>
+    <string name="instruction_error_something_went_wrong">Something went wrong</string>
+
+    <!-- Button label -->
+    <string name="retry">Retry</string>
+
+</resources>

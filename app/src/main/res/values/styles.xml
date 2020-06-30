@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Newz.Widget.MaterialCardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">0dp</item>
+    </style>
+
+</resources>

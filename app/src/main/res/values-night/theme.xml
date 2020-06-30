@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Newz.DayNight" parent="Newz.Dark" />
+
+    <!-- Dark theme -->
+    <style name="Newz.Dark" parent="Base.Newz">
+
+        <item name="colorPrimary">@color/purple_300</item>
+        <item name="colorPrimaryVariant">@color/purple_300</item>
+        <item name="colorSecondary">@color/purple_300</item>
+        <item name="colorSecondaryVariant">@color/purple_300</item>
+        <item name="colorSurface">@color/black_800</item>
+        <item name="android:colorBackground">?colorSurface</item>
+
+        <!-- Platform attributes -->
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:statusBarColor">#1F000000</item>
+
+    </style>
+
+</resources>

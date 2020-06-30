@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance.Newz.Headline1" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="fontFamily">@font/manrope_regular</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Headline2" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="fontFamily">@font/manrope_regular</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Headline3" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="fontFamily">@font/manrope_medium</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Headline4" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="fontFamily">@font/manrope_bold</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="fontFamily">@font/manrope_medium</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">@font/manrope_semibold</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="fontFamily">@font/manrope_semibold</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="fontFamily">@font/manrope_semibold</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/manrope_medium</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/manrope_medium</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Button" parent="TextAppearance.MaterialComponents.Button">
+        <item name="fontFamily">@font/manrope_semibold</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="fontFamily">@font/manrope_medium</item>
+    </style>
+
+    <style name="TextAppearance.Newz.Overline" parent="TextAppearance.MaterialComponents.Overline">
+        <item name="android:fontFamily">@font/manrope_semibold</item>
+    </style>
+
+</resources>

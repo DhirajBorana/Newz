@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="section"
+            type="com.example.newz.ui.section.Section" />
+    </data>
+
+    <CheckedTextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/keyline_2"
+        android:layout_marginEnd="@dimen/keyline_2"
+        android:background="@drawable/text_section_bg"
+        android:checked="@{section.checked}"
+        android:padding="@dimen/keyline_3"
+        android:text="@{section.titleRes}"
+        android:textAppearance="?textAppearanceSubtitle1"
+        android:textColor="@color/text_section_checked" />
+
+</layout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_600">#021aee</color>
+    <color name="purple_300">#5db0f2</color>
+    <color name="black_800">#121212</color>
+    <color name="gray_200">#F5F5F5</color>
+    <color name="white_50">#FFFFFF</color>
+
+    <color name="immersive_sys_ui">#00000000</color>
+    <color name="nav_bar">@color/immersive_sys_ui</color>
+
+</resources>
