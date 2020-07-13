@@ -1,6 +1,15 @@
 # Newz
-Android App that shows Top Stories from NY Times
+Android App that shows Top Stories from NY Times.  
+It uses MVVM architecture and supports dark mode.
 
+## Libraries
+
+- Navigation
+- Lifecycle Components
+- Retrofit with Moshi
+- Kotlin Coroutines
+- Glide
+- Chrome Custom Tabs
 
 ## Building the app
 
