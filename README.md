@@ -1,6 +1,6 @@
 # Newz
 Android App that shows Top Stories from NY Times.  
-It uses MVVM architecture and supports dark mode.
+It uses MVVM architecture.
 
 ## Libraries
 
@@ -10,6 +10,12 @@ It uses MVVM architecture and supports dark mode.
 - Kotlin Coroutines
 - Glide
 - Chrome Custom Tabs
+
+## Features
+
+- Dark Mode
+- Helpful Error & Offline State
+- Custom Chrome Tabs
 
 ## Building the app
 
